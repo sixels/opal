@@ -36,6 +36,8 @@ opal path/to/image (nord|gruvbox|oceanic|dracula)
 | ![Landscape](assets/images/landscape.jpg) | ![](assets/images/landscape.dracula.jpg) | ![](assets/images/landscape.gruvbox.jpg) |![](assets/images/landscape.nord.jpg) |
 | ![Forest](assets/images/forest.jpg) | ![](assets/images/forest.dracula.jpg) | ![](assets/images/forest.gruvbox.jpg) |![](assets/images/forest.nord.jpg) |
 
+_All images were compressed **after** being generated_.
+
 ## TODO
 
 - [ ] Refactoring
